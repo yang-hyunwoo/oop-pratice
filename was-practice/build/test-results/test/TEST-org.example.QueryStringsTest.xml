@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.QueryStringsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-05T06:51:57" hostname="DESKTOP-BC75VFH" time="0.067">
+  <properties/>
+  <testcase name="createTest()" classname="org.example.QueryStringsTest" time="0.067"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
